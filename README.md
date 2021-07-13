@@ -12,7 +12,7 @@ To start using Wordpress Starter Theme you must ensure that:
 
 -   php >= 7.0
 -   Composer
--   Node.js >= 8.12.0
+-   Node.js >= 12.x
 -   Yarn
 
 ## Installation
